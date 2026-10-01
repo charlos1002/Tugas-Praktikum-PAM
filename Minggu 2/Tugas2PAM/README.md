@@ -9,11 +9,7 @@
 Berikut langkah-langkah untuk menjalankan proyek ini di **Android Studio**:
 
 1. **Clone atau Unduh Repositori**:
-   * Buka Terminal / Git Bash lalu jalankan perintah:
-     ```bash
-     git clone [https://github.com/charlos1002/Tugas-Praktikum-PAM.git](https://github.com/charlos1002/Tugas-Praktikum-PAM.git)
-     ```
-   * Atau unduh file ZIP repositori dari GitHub dan ekstrak di komputer Anda.
+   * unduh file ZIP repositori dari GitHub dan ekstrak di komputer Anda.
 
 2. **Buka Proyek di Android Studio**:
    * Buka aplikasi **Android Studio**.
