@@ -27,6 +27,4 @@ Berikut langkah-langkah untuk menjalankan proyek ini di **Android Studio**:
      2. Hubungkan HP ke laptop/komputer menggunakan kabel data USB.
      3. Pilih nama HP Anda pada menu *Device Selector* di toolbar atas Android Studio.
      4. Klik tombol **Play (▶)** untuk menginstal dan menjalankan aplikasi.
-* **UI Framework**: Jetpack Compose (Material 3)
-* **Architecture**: MVVM (Model-View-ViewModel)
-* **Asynchronous / Stream**: Kotlin Coroutines & Flow (`StateFlow`, `MutableStateFlow`)[cite: 1]
+
